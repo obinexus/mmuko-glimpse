@@ -1,5 +1,6 @@
 # MmuoKò Glimpse: Phenomenological Art-to-Feeling Pipeline
-
+## 'Art is a abstract protocol of and for statement/expression/intent ' -
+By Nnamdi Michael Okpala
 ## 📸 Person-to-Person Creative Resonance (95.4% Coherence Target)
 
 **Repository:** `@obinexus/mmuko-glimpse`  
